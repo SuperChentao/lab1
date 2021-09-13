@@ -1,1 +1,1 @@
-conflict content
+conflict contentcontent2
